@@ -1,0 +1,57 @@
+{
+  "dette": {
+    "carteCredits":[
+      {
+        "type":"RBC",
+        "limite":"2500",
+        "dateExpiration":"2018-03-15",
+        "tauxInteret":"18",
+        "paiementSouhaite": "60",
+        "echeanceSouhaitee":"3",
+        "paiementReel":"30",
+        "echeanceReel":"7",
+        "soldeCourant":"2000",
+        "information":"Ma carte favorie de la banque royale"
+      },{
+        "type":"BNC",
+        "limite":"28000",
+        "dateExpiration":"2019-03-15",
+        "tauxInteret":"18",
+        "paiementSouhaite": "50",
+        "echeanceSouhaitee":"5",
+        "paiementReel":"34",
+        "echeanceReel":"20",
+        "soldeCourant":"2000",
+        "information":"Ma carte de la banque nationnale"
+      },{
+        "type":"LAURENTIENNE",
+        "limite":"7000",
+        "dateExpiration":"2020-05-15",
+        "tauxInteret":"18",
+        "paiementSouhaite": "80",
+        "echeanceSouhaitee":"10",
+        "paiementReel":"70",
+        "echeanceReel":"4",
+        "soldeCourant":"2600",
+        "information":"Ma carte credit de la banque Laurentienne"
+      },{
+        "type":"DESJARDINS",
+        "limite":"25000",
+        "dateExpiration":"2024-02-19",
+        "tauxInteret":"10",
+        "paiementSouhaite": "90",
+        "echeanceSouhaitee":"7",
+        "paiementReel":"85",
+        "echeanceReel":"6",
+        "soldeCourant":"2900",
+        "information":"Ma carte de la banque des jardins"
+      }
+    ],
+    "hypotheque":[],
+    "margeCredit":[],
+    "etude":[]
+  },
+  "epargne":{},
+  "vehicule": {},
+  "budget": {}
+}
